@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains a machine learning project for classifying breast tumors as benign or malignant using the **Breast Cancer Wisconsin Dataset**. The project implements four classification algorithms—**Logistic Regression**, **Decision Tree**, **Random Forest**, and **Support Vector Machine (SVM)**—and evaluates their performance for a high graduate-level university course.
+This repository contains a machine learning project for classifying breast tumors as benign or malignant using the **Breast Cancer Wisconsin Dataset**. The project implements four classification algorithms—**Logistic Regression**, **Decision Tree**, **Random Forest**, and **Support Vector Machine (SVM)**—and evaluates their performance for a  university course.
 
 ### Objectives
 - Implement and compare four classification algorithms.
